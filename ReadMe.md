@@ -28,3 +28,7 @@ Listen to port 8001 by default
 
 ## Configuration:
 Change configuration can be set by set up environment variables or update config/config.go file.
+
+## Build Docker Image
+1. Run command docker build --label "version={version}" -t {name}:{version} .
+2. Example: docker build --label "version=v1.0.0" -t guestlist:v1.0.0 .
