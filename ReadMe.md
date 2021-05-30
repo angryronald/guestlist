@@ -1,4 +1,4 @@
-# github.com/angryronald/guestlist
+# Guestlist
 
 ## Description
 Guestlist service for GetGround.com technical test
