@@ -10,9 +10,8 @@ Guestlist service for GetGround.com technical test
 4. Command Query Responsibility Segregation
 
 ## Test
-1. Unit test: /internal/guest/infrastructure/repository/database/guest_test.go
-2. Mock test using mockery: /internal/guest/infrastructure/repository/mocks, /internal/guest/domain/service/guest/mocks
-3. Integration test: internal/guest/domain/service/guest/guest_test.go
+1. Unit test using mockery: /internal/guest/infrastructure/repository/mocks, /internal/guest/domain/service/guest/mocks
+2. Integration test: internal/guest/domain/service/guest/guest_test.go, /internal/guest/infrastructure/repository/database/guest_test.go
 
 ## Requirement
 1. MySQL
