@@ -1,7 +1,7 @@
 # Guestlist
 
 ## Description
-Guestlist service for GetGround.com technical test
+Guestlist service
 
 ### Code Style
 1. SOLID Principle
